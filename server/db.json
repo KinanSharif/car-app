@@ -1,3 +1,16 @@
 {
-  "cars": []
+  "cars": [
+    {
+      "brand": "Ferrari",
+      "model": "abc22",
+      "engine": {
+        "consumption": 4,
+        "fuel": "petrol",
+        "power": 100
+      },
+      "km": 1000,
+      "price": 700,
+      "year": 2932
+    }
+  ]
 }
