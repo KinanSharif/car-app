@@ -1,6 +1,7 @@
 {
   "cars": [
     {
+      "id": 1,
       "brand": "Ferrari",
       "model": "abc22",
       "engine": {
@@ -11,6 +12,19 @@
       "km": 1000,
       "price": 700,
       "year": 2932
+    },
+    {
+      "brand": "dfa",
+      "model": "dfadf",
+      "year": "",
+      "price": "33",
+      "km": "343",
+      "engine": {
+        "fuel": "diesel",
+        "power": null,
+        "consumption": null
+      },
+      "id": 2
     }
   ]
 }
