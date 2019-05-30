@@ -25,6 +25,32 @@
         "consumption": null
       },
       "id": 2
+    },
+    {
+      "id": 3,
+      "brand": "far",
+      "model": "12",
+      "year": "2019-05-22",
+      "price": "23",
+      "km": "23",
+      "engine": {
+        "fuel": "petrol",
+        "power": 21,
+        "consumption": 1212
+      }
+    },
+    {
+      "id": 4,
+      "brand": "bmw",
+      "model": "av",
+      "year": "",
+      "price": "",
+      "km": "",
+      "engine": {
+        "fuel": "",
+        "power": "",
+        "consumption": ""
+      }
     }
   ]
 }
